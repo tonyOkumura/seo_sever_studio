@@ -1,0 +1,31 @@
+date,channel,title,cluster,status,main_keyword,internal_links,notes
+2026-06-01,blog,Разработка сайта под ключ что входит и как выбрать формат,Разработка сайтов,planned,разработка сайта под ключ,homepage;/razrabotka-landing-page/;/razrabotka-korporativnogo-sajta/,Create brief first
+2026-06-02,blog,Создание сайта в Красногорске для локального бизнеса,Локальное SEO,planned,создание сайта Красногорск,homepage;/kontakty/;/prodvizhenie-seo/,Need NAP verification
+2026-06-03,blog,SEO продвижение сайта в Яндексе что входит в работу,SEO-продвижение,planned,SEO продвижение сайта,/prodvizhenie-seo/;TODO audit URL;/zakazat-kopirajt-teksta/,Create brief first
+2026-06-04,blog,Landing Page под ключ когда лендинг лучше сайта,Landing Page,planned,landing page под ключ,/razrabotka-landing-page/;/yandeks-direkt/;/razrabotka-kviz-sajta/,Use confirmed price
+2026-06-05,blog,Корпоративный сайт под ключ структура этапы ошибки,Корпоративные сайты,planned,корпоративный сайт под ключ,/razrabotka-korporativnogo-sajta/;/podderzhka-sajta/,Create brief first
+2026-06-08,blog,Разработка интернет магазина что подготовить до старта,Интернет-магазины,planned,разработка интернет магазина,/razrabotka-internet-magazina/;/prodvizhenie-seo/;/yandeks-direkt/,Need platform TODO
+2026-06-09,blog,Поддержка сайта какие задачи отдавать подрядчику,Поддержка и доработка сайтов,planned,поддержка сайта,/podderzhka-sajta/;/homepage/dorabotka-sajta/,Clarify period price
+2026-06-10,blog,Доработка сайта после подрядчика чеклист владельца,Поддержка и доработка сайтов,planned,доработка сайта,/homepage/dorabotka-sajta/;TODO audit URL,Problem-aware
+2026-06-11,blog,Аудит сайта перед SEO и рекламой что проверять,Аудит сайта,planned,аудит сайта,TODO audit URL;/prodvizhenie-seo/;/yandeks-direkt/,Need audit URL
+2026-06-12,blog,Яндекс Директ или SEO что выбрать малому бизнесу,Яндекс Директ,planned,Яндекс Директ под ключ,/yandeks-direkt/;/prodvizhenie-seo/;/razrabotka-landing-page/,Comparison
+2026-06-15,vc.ru,Почему сайт под ключ не должен начинаться с дизайна,Разработка сайтов,planned,разработка сайта под ключ,Full blog article URL required,Only after blog publish
+2026-06-16,vc.ru,Что локальный бизнес забывает при заказе сайта,Локальное SEO,planned,создание сайта Красногорск,Full blog article URL required,Shorter angle
+2026-06-17,vc.ru,SEO в Яндексе почему одних текстов недостаточно,SEO-продвижение,planned,SEO продвижение сайта,Full blog article URL required,Shorter angle
+2026-06-18,vc.ru,Лендинг или многостраничный сайт короткий разбор,Landing Page,planned,landing page под ключ,Full blog article URL required,Shorter angle
+2026-06-19,vc.ru,Корпоративный сайт почему структура важнее главной,Корпоративные сайты,planned,корпоративный сайт под ключ,Full blog article URL required,Shorter angle
+2026-06-22,vc.ru,Интернет магазин без хаоса что подготовить до разработки,Интернет-магазины,planned,разработка интернет магазина,Full blog article URL required,Shorter angle
+2026-06-23,vc.ru,Поддержка сайта какие поломки лучше предотвращать,Поддержка и доработка сайтов,planned,поддержка сайта,Full blog article URL required,Shorter angle
+2026-06-24,vc.ru,Как спасать сайт после неудачного подрядчика,Поддержка и доработка сайтов,planned,доработка сайта,Full blog article URL required,Shorter angle
+2026-06-25,vc.ru,Аудит сайта что понять до бюджета на рекламу,Аудит сайта,planned,аудит сайта,Full blog article URL required,Shorter angle
+2026-06-26,vc.ru,SEO и Яндекс Директ как не противопоставлять каналы,Яндекс Директ,planned,Яндекс Директ под ключ,Full blog article URL required,Shorter angle
+2026-06-29,service,Улучшить страницу Landing Page FAQ process links,Landing Page,planned,landing page под ключ,/razrabotka-landing-page/,Service page improvement
+2026-06-30,service,Улучшить страницу SEO продвижение под Яндекс и локальный спрос,SEO-продвижение,planned,SEO продвижение сайта,/prodvizhenie-seo/,Service page improvement
+2026-07-01,service,Улучшить страницу корпоративного сайта сравнениями и FAQ,Корпоративные сайты,planned,корпоративный сайт под ключ,/razrabotka-korporativnogo-sajta/,Service page improvement
+2026-07-02,service,Улучшить страницу интернет магазина функциями и FAQ,Интернет-магазины,planned,разработка интернет магазина,/razrabotka-internet-magazina/,Service page improvement
+2026-07-03,service,Улучшить страницу поддержки сайта scope SLA price period,Поддержка и доработка сайтов,planned,поддержка сайта,/podderzhka-sajta/,Service page improvement
+2026-07-06,local-faq,FAQ создание сайта в Москве и МО,Локальное SEO,planned,создание сайта Москва,homepage;/kontakty/,Local FAQ block
+2026-07-07,local-faq,FAQ создание сайта в Красногорске,Локальное SEO,planned,создание сайта Красногорск,homepage;/kontakty/,Local FAQ block
+2026-07-08,local-faq,FAQ SEO продвижение в Красногорске,Локальное SEO,planned,SEO продвижение Красногорск,/prodvizhenie-seo/;/kontakty/,Local FAQ block
+2026-07-09,local-faq,FAQ Яндекс Директ для бизнеса в Москве,Яндекс Директ,planned,Яндекс Директ Москва,/yandeks-direkt/;/razrabotka-landing-page/,Local FAQ block
+2026-07-10,local-faq,FAQ поддержка сайта в Москве и МО,Поддержка и доработка сайтов,planned,поддержка сайта Москва,/podderzhka-sajta/;/homepage/dorabotka-sajta/,Local FAQ block

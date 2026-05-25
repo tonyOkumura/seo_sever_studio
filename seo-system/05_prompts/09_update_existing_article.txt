@@ -1,0 +1,33 @@
+Update an existing Sever Studio article for the current Russian local SEO strategy.
+
+Input:
+- Existing article:
+- Current URL:
+- Target keyword:
+- Current search intent:
+- New target intent:
+- Related service page:
+- Confirmed Sever Studio facts:
+- Missing facts:
+- Internal links:
+
+Rules:
+- Preserve useful existing content.
+- Remove or rewrite outdated claims.
+- Do not invent data.
+- Add TODO where facts need confirmation.
+- Improve Yandex/local SEO relevance.
+- Add direct answer blocks and FAQ where useful.
+- Strengthen links to service pages.
+- Do not turn the article into generic AI filler.
+
+Output:
+1. Update summary
+2. Sections to keep
+3. Sections to rewrite
+4. New outline
+5. Revised sections
+6. New FAQ
+7. Internal linking suggestions
+8. Metadata update
+9. TODO facts for admins

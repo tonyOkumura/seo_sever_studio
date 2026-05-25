@@ -1,0 +1,38 @@
+Review this Sever Studio article before publication.
+
+Input:
+- Article text:
+- Approved brief:
+- Target keyword:
+- Search intent:
+- Service page URL:
+- Confirmed facts:
+- Missing facts:
+- Internal links:
+
+Check:
+- search intent match
+- target keyword use
+- semantic coverage
+- readability
+- short paragraphs
+- H1/H2/H3 structure
+- FAQ quality
+- internal links
+- CTA
+- metadata
+- local/Yandex relevance
+- fake claims
+- unsupported prices/timelines
+- fake case studies/reviews/metrics/clients
+- keyword stuffing
+- generic AI phrases
+- copied competitor structure risk
+
+Output:
+- Verdict: publish / revise / reject
+- Critical issues
+- Recommended fixes
+- Improved title/meta if needed
+- Missing TODO facts
+- Final publication checklist

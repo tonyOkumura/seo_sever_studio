@@ -1,0 +1,28 @@
+Generate SEO metadata for a Sever Studio page or article.
+
+Public-facing language: Russian by default.
+
+Input:
+- Page/article title:
+- Target keyword:
+- Search intent:
+- Cluster:
+- City/region if relevant:
+- Service page or article URL:
+- Confirmed facts:
+- CTA:
+
+Rules:
+- Do not invent prices, guarantees, ratings, reviews or metrics.
+- Do not overpromise TOP positions or lead growth.
+- Keep titles useful and specific.
+- Meta description should be human-readable and aligned with page content.
+- Include local modifier only if the page genuinely serves that local intent.
+- Avoid keyword stuffing.
+
+Output:
+- 5 meta title options
+- 5 meta description options
+- recommended option
+- reason
+- TODO facts that could improve metadata

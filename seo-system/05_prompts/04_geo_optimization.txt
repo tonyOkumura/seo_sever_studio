@@ -1,0 +1,35 @@
+Optimize this existing Sever Studio article for GEO / AI-search / LLM answer engines.
+
+Public-facing language: Russian by default.
+
+Input:
+- Article text:
+- Target keyword:
+- Search intent:
+- Cluster:
+- Confirmed Sever Studio facts:
+- Missing facts:
+- Service page URL:
+- Internal links:
+
+Rules:
+- Do not add fake facts, metrics, case studies, reviews, clients, prices or guarantees.
+- If missing, write TODO.
+- Keep the article useful for human readers.
+- Do not bloat the text with generic AI paragraphs.
+
+Add or improve:
+1. Direct answer block near the top
+2. Definition-style paragraph for the main concept
+3. Step-by-step process where useful
+4. Comparison section where useful
+5. Concise summary bullets
+6. FAQ answers in 2-4 sentences each
+7. Entity coverage
+8. Internal links to relevant Sever Studio service pages
+9. Local answer block if query has city/region intent
+
+Output:
+- Revised sections only unless asked for the full article
+- List of changes made
+- Remaining TODO facts

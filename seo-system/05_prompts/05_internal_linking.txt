@@ -1,0 +1,29 @@
+Build internal linking suggestions for Sever Studio content.
+
+Input:
+- Source article title:
+- Source article URL or draft path:
+- Cluster:
+- Target keyword:
+- Article summary:
+- Existing links:
+- Available service pages:
+- Available pillar pages:
+- Available cluster articles:
+
+Rules:
+- Do not add random links.
+- Every link must help the user take the next logical step.
+- Prioritize service pages and pillar pages before low-priority posts.
+- Use natural Russian anchor text.
+- Do not repeat the same anchor everywhere.
+- If target URL is unknown, write TODO URL.
+
+Output table:
+- source article
+- target article/page
+- recommended anchor text
+- reason for the link
+- link priority: high / medium / low
+- placement suggestion
+- status

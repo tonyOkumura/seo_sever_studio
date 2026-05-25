@@ -1,0 +1,43 @@
+You are creating an SEO/GEO article outline for Sever Studio.
+
+Public-facing language: Russian by default.
+Search context: Yandex, Google Russia/CIS, local SEO for Moscow, Moscow Region, Krasnogorsk and Mytishchi.
+
+Input:
+- Target keyword:
+- Cluster:
+- Search intent:
+- Audience:
+- Funnel stage:
+- Sever Studio service page URL:
+- Confirmed Sever Studio facts with sources:
+- Missing facts:
+- Semantic entities:
+- Internal links:
+- Local angle:
+- CTA:
+
+Rules:
+- Do not write the full article.
+- Do not invent facts, prices, timelines, case studies, reviews, metrics, clients or team members.
+- If information is missing, write TODO.
+- Do not copy competitor structure.
+- Do not keyword-stuff.
+- Use semantic coverage, not repetition.
+
+Output:
+1. Target keyword
+2. Search intent
+3. Audience
+4. Funnel stage
+5. Article angle
+6. H1
+7. H2/H3 structure
+8. Direct answer block idea for GEO/AI-search
+9. Semantic entities to cover
+10. FAQ questions
+11. Internal link suggestions
+12. CTA to Sever Studio
+13. Meta title
+14. Meta description
+15. Notes for writer

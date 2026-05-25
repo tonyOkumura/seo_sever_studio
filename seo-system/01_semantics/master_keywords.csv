@@ -1,0 +1,224 @@
+keyword,cluster,intent,priority,difficulty,status,notes
+разработка сайта под ключ,Разработка сайтов,commercial,high,TODO,idea,core service
+создание сайта под ключ,Разработка сайтов,commercial,high,TODO,idea,core service
+заказать сайт под ключ,Разработка сайтов,commercial,high,TODO,idea,core service
+сайт под ключ цена,Разработка сайтов,commercial,high,TODO,idea,price intent
+разработка сайта для бизнеса,Разработка сайтов,commercial,high,TODO,idea,SMB intent
+создание сайта для малого бизнеса,Разработка сайтов,commercial,high,TODO,idea,SMB intent
+разработка сайта Москва,Разработка сайтов,local commercial,high,TODO,idea,local modifier
+создание сайта Москва,Разработка сайтов,local commercial,high,TODO,idea,local modifier
+разработка сайта Московская область,Разработка сайтов,local commercial,high,TODO,idea,local modifier
+создание сайта Красногорск,Разработка сайтов,local commercial,high,TODO,idea,local modifier
+разработка сайта Красногорск,Разработка сайтов,local commercial,high,TODO,idea,local modifier
+создание сайта Мытищи,Разработка сайтов,local commercial,high,TODO,idea,local modifier
+разработка сайта Мытищи,Разработка сайтов,local commercial,medium,TODO,idea,local modifier
+этапы разработки сайта,Разработка сайтов,informational,medium,TODO,idea,brief support
+что входит в разработку сайта,Разработка сайтов,FAQ/GEO,medium,TODO,idea,answer block
+бриф на разработку сайта,Разработка сайтов,informational,medium,TODO,idea,lead prep
+как выбрать подрядчика для сайта,Разработка сайтов,comparison,medium,TODO,idea,trust intent
+landing page под ключ,Landing Page,commercial,high,TODO,idea,service
+разработка landing page,Landing Page,commercial,high,TODO,idea,service
+создание лендинга,Landing Page,commercial,high,TODO,idea,service
+лендинг под ключ,Landing Page,commercial,high,TODO,idea,service
+лендинг цена,Landing Page,commercial,high,TODO,idea,price intent
+лендинг Москва,Landing Page,local commercial,high,TODO,idea,local
+landing page Москва,Landing Page,local commercial,medium,TODO,idea,local
+лендинг Красногорск,Landing Page,local commercial,medium,TODO,idea,local
+лендинг для Яндекс Директ,Landing Page,problem-aware,medium,TODO,idea,ad link
+лендинг для услуги,Landing Page,commercial,medium,TODO,idea,service business
+структура лендинга,Landing Page,informational,medium,TODO,idea,cluster
+что должно быть на лендинге,Landing Page,FAQ/GEO,medium,TODO,idea,FAQ
+лендинг или многостраничный сайт,Landing Page,comparison,medium,TODO,idea,comparison
+корпоративный сайт под ключ,Корпоративные сайты,commercial,high,TODO,idea,service
+разработка корпоративного сайта,Корпоративные сайты,commercial,high,TODO,idea,service
+создание корпоративного сайта,Корпоративные сайты,commercial,high,TODO,idea,service
+корпоративный сайт цена,Корпоративные сайты,commercial,high,TODO,idea,price
+корпоративный сайт Москва,Корпоративные сайты,local commercial,high,TODO,idea,local
+корпоративный сайт Красногорск,Корпоративные сайты,local commercial,medium,TODO,idea,local
+структура корпоративного сайта,Корпоративные сайты,informational,medium,TODO,idea,cluster
+что должно быть на сайте компании,Корпоративные сайты,FAQ/GEO,medium,TODO,idea,FAQ
+корпоративный сайт или многостраничный сайт,Корпоративные сайты,comparison,medium,TODO,idea,comparison
+редизайн корпоративного сайта,Корпоративные сайты,problem-aware,medium,TODO,idea,redesign
+многостраничный сайт под ключ,Многостраничные сайты,commercial,high,TODO,idea,service
+разработка многостраничного сайта,Многостраничные сайты,commercial,high,TODO,idea,service
+создание многостраничного сайта,Многостраничные сайты,commercial,medium,TODO,idea,service
+многостраничный сайт цена,Многостраничные сайты,commercial,medium,TODO,idea,price
+многостраничный сайт Москва,Многостраничные сайты,local commercial,medium,TODO,idea,local
+многостраничный сайт Красногорск,Многостраничные сайты,local commercial,medium,TODO,idea,local
+структура многостраничного сайта,Многостраничные сайты,informational,medium,TODO,idea,cluster
+сколько страниц нужно сайту,Многостраничные сайты,FAQ/GEO,medium,TODO,idea,FAQ
+многостраничный сайт или лендинг,Многостраничные сайты,comparison,medium,TODO,idea,comparison
+сайт визитка под ключ,Сайты-визитки,commercial,high,TODO,idea,service
+разработка сайта визитки,Сайты-визитки,commercial,high,TODO,idea,service
+создание сайта визитки,Сайты-визитки,commercial,high,TODO,idea,service
+сайт визитка цена,Сайты-визитки,commercial,high,TODO,idea,price
+сайт визитка Москва,Сайты-визитки,local commercial,medium,TODO,idea,local
+сайт визитка Красногорск,Сайты-визитки,local commercial,medium,TODO,idea,local
+сайт визитка Мытищи,Сайты-визитки,local commercial,medium,TODO,idea,local
+сайт визитка для малого бизнеса,Сайты-визитки,commercial,medium,TODO,idea,SMB
+что разместить на сайте визитке,Сайты-визитки,FAQ/GEO,medium,TODO,idea,FAQ
+сайт визитка или лендинг,Сайты-визитки,comparison,medium,TODO,idea,comparison
+интернет магазин под ключ,Интернет-магазины,commercial,high,TODO,idea,service
+разработка интернет магазина,Интернет-магазины,commercial,high,TODO,idea,service
+создание интернет магазина,Интернет-магазины,commercial,high,TODO,idea,service
+интернет магазин цена,Интернет-магазины,commercial,high,TODO,idea,price
+интернет магазин Москва,Интернет-магазины,local commercial,high,TODO,idea,local
+интернет магазин Красногорск,Интернет-магазины,local commercial,medium,TODO,idea,local
+создание интернет магазина Мытищи,Интернет-магазины,local commercial,medium,TODO,idea,local
+разработка каталога товаров,Интернет-магазины,commercial,medium,TODO,idea,catalog
+SEO интернет магазина,Интернет-магазины,informational,medium,TODO,idea,SEO support
+карточка товара для SEO,Интернет-магазины,informational,medium,TODO,idea,cluster
+квиз сайт под ключ,Квиз-сайты,commercial,medium,TODO,idea,service
+разработка квиз сайта,Квиз-сайты,commercial,medium,TODO,idea,service
+создание квиз сайта,Квиз-сайты,commercial,medium,TODO,idea,service
+квиз сайт цена,Квиз-сайты,commercial,medium,TODO,idea,price
+квиз сайт Москва,Квиз-сайты,local commercial,medium,TODO,idea,local
+квиз сайт Красногорск,Квиз-сайты,local commercial,low,TODO,idea,local
+квиз для лидогенерации,Квиз-сайты,problem-aware,medium,TODO,idea,lead gen
+квиз для услуг,Квиз-сайты,commercial,medium,TODO,idea,service business
+квиз или лендинг,Квиз-сайты,comparison,medium,TODO,idea,comparison
+SEO продвижение сайта,SEO-продвижение,commercial,high,TODO,idea,service
+seo продвижение,SEO-продвижение,commercial,high,TODO,idea,service
+продвижение сайта в Яндексе,SEO-продвижение,commercial,high,TODO,idea,Yandex
+заказать SEO продвижение,SEO-продвижение,commercial,high,TODO,idea,service
+SEO продвижение Москва,SEO-продвижение,local commercial,high,TODO,idea,local
+SEO продвижение Красногорск,SEO-продвижение,local commercial,high,TODO,idea,local
+SEO продвижение Московская область,SEO-продвижение,local commercial,high,TODO,idea,local
+SEO продвижение Мытищи,SEO-продвижение,local commercial,medium,TODO,idea,local
+стоимость SEO продвижения,SEO-продвижение,commercial,high,TODO,idea,price
+что входит в SEO продвижение,SEO-продвижение,FAQ/GEO,medium,TODO,idea,FAQ
+семантическое ядро для сайта,SEO-продвижение,informational,medium,TODO,idea,cluster
+техническая оптимизация сайта,SEO-продвижение,informational,medium,TODO,idea,cluster
+коммерческие факторы сайта,SEO-продвижение,informational,medium,TODO,idea,cluster
+внутренняя перелинковка сайта,SEO-продвижение,informational,medium,TODO,idea,cluster
+поддержка сайта,Поддержка и доработка сайтов,commercial,high,TODO,idea,service
+техническая поддержка сайта,Поддержка и доработка сайтов,commercial,high,TODO,idea,service
+поддержка сайта Москва,Поддержка и доработка сайтов,local commercial,high,TODO,idea,local
+поддержка сайта Красногорск,Поддержка и доработка сайтов,local commercial,medium,TODO,idea,local
+доработка сайта,Поддержка и доработка сайтов,commercial,high,TODO,idea,service
+доработка сайта Москва,Поддержка и доработка сайтов,local commercial,high,TODO,idea,local
+доработка сайта Красногорск,Поддержка и доработка сайтов,local commercial,medium,TODO,idea,local
+исправить сайт после подрядчика,Поддержка и доработка сайтов,problem-aware,high,TODO,idea,pain
+обслуживание сайта,Поддержка и доработка сайтов,commercial,medium,TODO,idea,service
+сопровождение сайта,Поддержка и доработка сайтов,commercial,medium,TODO,idea,service
+перенос сайта,Перенос сайта,commercial,medium,TODO,idea,service
+перенос сайта на другой хостинг,Перенос сайта,problem-aware,medium,TODO,idea,pain
+перенос сайта без потери позиций,Перенос сайта,problem-aware,medium,TODO,idea,SEO
+перенос wordpress сайта,Перенос сайта,commercial,medium,TODO,idea,CMS
+смена домена сайта SEO,Перенос сайта,informational,medium,TODO,idea,SEO
+перенести сайт Москва,Перенос сайта,local commercial,low,TODO,idea,local
+аудит сайта,Аудит сайта,commercial,high,TODO,idea,service
+SEO аудит сайта,Аудит сайта,commercial,high,TODO,idea,service
+технический аудит сайта,Аудит сайта,commercial,high,TODO,idea,service
+UX аудит сайта,Аудит сайта,commercial,medium,TODO,idea,service
+аудит сайта Москва,Аудит сайта,local commercial,high,TODO,idea,local
+аудит сайта Красногорск,Аудит сайта,local commercial,medium,TODO,idea,local
+проверка сайта перед продвижением,Аудит сайта,problem-aware,high,TODO,idea,pain
+почему сайт не приносит заявки,Аудит сайта,problem-aware,high,TODO,idea,pain
+проверить сайт на ошибки,Аудит сайта,problem-aware,medium,TODO,idea,pain
+контекстная реклама,Контекстная реклама,commercial,medium,TODO,idea,service
+настройка контекстной рекламы,Контекстная реклама,commercial,high,TODO,idea,service
+контекстная реклама Москва,Контекстная реклама,local commercial,medium,TODO,idea,local
+контекстная реклама для малого бизнеса,Контекстная реклама,commercial,medium,TODO,idea,SMB
+SEO или контекстная реклама,Контекстная реклама,comparison,medium,TODO,idea,comparison
+аудит контекстной рекламы,Контекстная реклама,commercial,medium,TODO,idea,audit
+подготовка сайта к рекламе,Контекстная реклама,problem-aware,medium,TODO,idea,pain
+Яндекс Директ под ключ,Яндекс Директ,commercial,high,TODO,idea,service
+настройка Яндекс Директ,Яндекс Директ,commercial,high,TODO,idea,service
+ведение Яндекс Директ,Яндекс Директ,commercial,medium,TODO,idea,service
+Яндекс Директ Москва,Яндекс Директ,local commercial,high,TODO,idea,local
+Яндекс Директ Красногорск,Яндекс Директ,local commercial,medium,TODO,idea,local
+аудит Яндекс Директ,Яндекс Директ,commercial,high,TODO,idea,audit
+стоимость настройки Яндекс Директ,Яндекс Директ,commercial,high,TODO,idea,price
+Яндекс Директ для услуг,Яндекс Директ,commercial,medium,TODO,idea,service business
+Google Ads настройка,Google Ads,commercial,low,TODO,idea,verify relevance
+Google Adwords аудит,Google Ads,commercial,low,TODO,idea,verify relevance
+Google Ads или Яндекс Директ,Google Ads,comparison,low,TODO,idea,verify relevance
+Google Ads для бизнеса,Google Ads,commercial,low,TODO,idea,verify relevance
+настройка Google Ads Москва,Google Ads,local commercial,low,TODO,idea,verify relevance
+SMM продвижение,SMM,commercial,medium,TODO,idea,service
+ведение соцсетей для бизнеса,SMM,commercial,medium,TODO,idea,service
+SMM Москва,SMM,local commercial,medium,TODO,idea,local
+SMM для малого бизнеса,SMM,commercial,medium,TODO,idea,SMB
+контент план для компании,SMM,informational,medium,TODO,idea,cluster
+оформление соцсетей,SMM,commercial,medium,TODO,idea,design link
+продвижение ВКонтакте,ВКонтакте,commercial,high,TODO,idea,service
+ведение группы ВК,ВКонтакте,commercial,high,TODO,idea,service
+оформление сообщества ВК,ВКонтакте,commercial,medium,TODO,idea,service
+продвижение ВКонтакте Москва,ВКонтакте,local commercial,medium,TODO,idea,local
+ВКонтакте для бизнеса,ВКонтакте,informational,medium,TODO,idea,cluster
+контент план ВКонтакте,ВКонтакте,informational,medium,TODO,idea,cluster
+таргетированная реклама,Таргетированная реклама,commercial,high,TODO,idea,service
+настройка таргетированной рекламы,Таргетированная реклама,commercial,high,TODO,idea,service
+таргетированная реклама Москва,Таргетированная реклама,local commercial,medium,TODO,idea,local
+таргет ВКонтакте,Таргетированная реклама,commercial,medium,TODO,idea,VK
+геотаргетинг реклама,Таргетированная реклама,informational,medium,TODO,idea,cluster
+таргет или Яндекс Директ,Таргетированная реклама,comparison,medium,TODO,idea,comparison
+брендинг для бизнеса,Дизайн и брендинг,commercial,medium,TODO,idea,service
+разработка бренда,Дизайн и брендинг,commercial,medium,TODO,idea,service
+дизайн для бизнеса,Дизайн и брендинг,commercial,medium,TODO,idea,service
+брендинг Москва,Дизайн и брендинг,local commercial,medium,TODO,idea,local
+брендинг Красногорск,Дизайн и брендинг,local commercial,low,TODO,idea,local
+визуальный стиль компании,Дизайн и брендинг,commercial,medium,TODO,idea,brand
+дизайн сайта и брендинг,Дизайн и брендинг,informational,medium,TODO,idea,cluster
+разработка логотипа,Логотип и фирменный стиль,commercial,high,TODO,idea,service
+дизайн логотипа,Логотип и фирменный стиль,commercial,high,TODO,idea,service
+логотип для бизнеса,Логотип и фирменный стиль,commercial,medium,TODO,idea,SMB
+разработка логотипа Москва,Логотип и фирменный стиль,local commercial,medium,TODO,idea,local
+логотип Красногорск,Логотип и фирменный стиль,local commercial,low,TODO,idea,local
+фирменный стиль под ключ,Логотип и фирменный стиль,commercial,high,TODO,idea,service
+разработка фирменного стиля,Логотип и фирменный стиль,commercial,high,TODO,idea,service
+брендбук для компании,Логотип и фирменный стиль,commercial,medium,TODO,idea,service
+копирайт для сайта,Копирайт и рерайт,commercial,medium,TODO,idea,service
+SEO текст для сайта,Копирайт и рерайт,commercial,medium,TODO,idea,service
+заказать текст для сайта,Копирайт и рерайт,commercial,medium,TODO,idea,service
+рерайт текста,Копирайт и рерайт,commercial,medium,TODO,idea,service
+заказать рерайт текста,Копирайт и рерайт,commercial,medium,TODO,idea,service
+тексты для сайта услуг,Копирайт и рерайт,commercial,medium,TODO,idea,service pages
+как писать SEO текст без переспама,Копирайт и рерайт,informational,medium,TODO,idea,cluster
+создание сайта в Красногорске,Локальное SEO,local commercial,high,TODO,idea,local pillar
+разработка сайтов в Красногорске,Локальное SEO,local commercial,high,TODO,idea,local pillar
+создание сайтов в Москве,Локальное SEO,local commercial,high,TODO,idea,local pillar
+разработка сайтов в Москве,Локальное SEO,local commercial,high,TODO,idea,local pillar
+создание сайта в Московской области,Локальное SEO,local commercial,high,TODO,idea,local pillar
+разработка сайта в Московской области,Локальное SEO,local commercial,high,TODO,idea,local pillar
+создание сайта в Мытищах,Локальное SEO,local commercial,medium,TODO,idea,local
+разработка сайта в Мытищах,Локальное SEO,local commercial,medium,TODO,idea,local
+SEO продвижение в Красногорске,Локальное SEO,local commercial,high,TODO,idea,local
+SEO продвижение в Москве,Локальное SEO,local commercial,high,TODO,idea,local
+Яндекс Директ в Красногорске,Локальное SEO,local commercial,medium,TODO,idea,local
+поддержка сайта в Москве,Локальное SEO,local commercial,medium,TODO,idea,local
+аудит сайта в Москве,Локальное SEO,local commercial,medium,TODO,idea,local
+сайт для бизнеса в Красногорске,Локальное SEO,local commercial,medium,TODO,idea,local
+локальное SEO для бизнеса,Локальное SEO,informational,medium,TODO,idea,cluster
+как продвигать сайт в регионе,Локальное SEO,FAQ/GEO,medium,TODO,idea,FAQ
+AI product design,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+AI UX design agency,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+design AI SaaS product,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+AI app UX design,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+product design for AI startup,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+AI product discovery,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+AI interface design best practices,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+MVP development agency for startups,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+MVP design process,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+startup MVP development,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+no-code MVP agency,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+MVP prototype design,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+MVP launch roadmap,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+SaaS UX design agency,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+SaaS dashboard design,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+SaaS onboarding UX,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+B2B SaaS product design,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+SaaS redesign agency,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+startup UX design agency,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+UX design for startups,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+web app design agency,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+custom web app design,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+web application UX design,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+product design agency for startups,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+product design studio,Archive AI SaaS MVP,commercial,archive,TODO,archive,old English-first topic
+startup branding agency,Archive AI SaaS MVP,commercial,low,TODO,archive,old topic partly related to branding
+branding for tech startups,Archive AI SaaS MVP,informational,low,TODO,archive,old topic partly related to branding
+SaaS branding,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic
+startup landing page design,Archive AI SaaS MVP,commercial,low,TODO,archive,old topic partly related to landing pages
+product strategy for startups,Archive AI SaaS MVP,informational,archive,TODO,archive,old English-first topic

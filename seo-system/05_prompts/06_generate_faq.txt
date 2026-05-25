@@ -1,0 +1,27 @@
+Generate FAQ questions and short answers for a Sever Studio SEO page or article.
+
+Public-facing language: Russian by default.
+Search context: Yandex snippets, people-also-ask style questions, local commercial intent and AI-search answers.
+
+Input:
+- Page/article topic:
+- Target keyword:
+- Search intent:
+- Audience:
+- Confirmed facts:
+- Missing facts:
+- Service page URL:
+
+Rules:
+- Do not invent prices, timelines, guarantees, case studies, reviews or metrics.
+- If a question requires missing data, answer with TODO or mark it for admin confirmation.
+- Keep answers concise: 2-4 sentences.
+- Use plain language for business owners.
+- Include local questions if relevant.
+- Avoid legal/financial/medical promises.
+
+Output:
+- 8-12 FAQ questions
+- short answers
+- recommended page placement
+- schema suitability: yes / no / TODO

@@ -1,0 +1,39 @@
+Review this Sever Studio article for semantic SEO quality.
+
+Public-facing article language should be Russian unless English was explicitly requested.
+Search context: Yandex, Google Russia/CIS, local SEO.
+
+Input:
+- Article text:
+- Target keyword:
+- Cluster:
+- Search intent:
+- Semantic entities:
+- Service page URL:
+- Internal link targets:
+- Confirmed facts:
+
+Check:
+1. Search intent match
+2. Topic completeness
+3. Semantic entity coverage
+4. Missing service facts
+5. Local SEO relevance
+6. Yandex-oriented usefulness
+7. H1/H2/H3 structure
+8. FAQ quality
+9. CTA quality
+10. Internal linking
+11. Metadata quality
+12. Keyword stuffing
+13. Generic AI phrases
+14. Unsupported claims
+
+Output:
+- Verdict: publish / revise / reject
+- Critical issues
+- Important improvements
+- Missing entities
+- Sections to add or cut
+- Improved title/meta if needed
+- Final TODO list before publication

@@ -1,0 +1,30 @@
+Create a shorter vc.ru adaptation from a full Sever Studio SEO article.
+
+Public-facing language: Russian.
+
+Input:
+- Full article:
+- Full article URL:
+- Target audience on vc.ru:
+- Desired angle:
+- Confirmed Sever Studio facts:
+- CTA:
+
+Rules:
+- Do not copy the full article.
+- Make the adaptation shorter than the original.
+- Change the angle for vc.ru.
+- Keep it useful as standalone content.
+- Include a natural link to the full blog article.
+- Do not invent facts, cases, metrics, clients, reviews or prices.
+- Avoid generic agency self-praise.
+- Avoid clickbait.
+
+Output:
+1. Three headline options
+2. Short intro hook
+3. Adapted article structure
+4. vc.ru text draft
+5. Natural backlink sentence to the full article
+6. Final CTA
+7. Notes on what was intentionally omitted from the full article
